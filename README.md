@@ -1,6 +1,6 @@
 # About the Project
 
-<image>https://res.cloudinary.com/dfjdtufsq/image/upload/v1678873441/Signup_rtunh2.png</image>
+<image src = "https://res.cloudinary.com/dfjdtufsq/image/upload/v1678873441/Signup_rtunh2.png" />
 
 
 This Project is an application focused more on the front-end that aims to be a virtual store, having versatility and the necessary security standards.
