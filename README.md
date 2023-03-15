@@ -45,7 +45,7 @@ to use the ReactJS Reactstrap button component.
 
 
 ## Deployment to production
-- CloudFlare
+- Vercel
 
 # How to run the project
 ```bash
