@@ -76,7 +76,7 @@ const Footer = () => {
 
                             <ListGroupItem className="ps-0 border-0 d-flex alingn-itens-center gap-2 " >
                             <span><i class="ri-phone-line"></i></span>
-                            <p>+55 1234-56789</p>
+                            <p>+9146775662</p>
                             </ListGroupItem>
 
                             <ListGroupItem className="ps-0 border-0 d-flex alingn-itens-center gap-2" >
@@ -87,7 +87,7 @@ const Footer = () => {
                         </div>
                     </Col>
                     <Col lg='12'>
-                        <p className="footer__copyright">Copyright {year} developed by Márcio Sena. all right reseverd. </p>
+                        <p className="footer__copyright">Copyright {year} developed by Priyanka Ingle. all right reseverd. </p>
                     </Col>
                 </Row>
             </Container>
