@@ -63,7 +63,7 @@ npm run build
 npm start
 ```
 
-# Autor
+# Author
 
 Priyanka Ingle
 
